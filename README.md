@@ -97,9 +97,9 @@ This project is a **front-end simulation only**. It does **not** involve real ba
 
 ## 📬 Contact
 
-**Author**: Rishi Thamadapo  
+**Author**: Rishmitha Madaporuge
 **GitHub**: [@rishmithamadaporuge](https://github.com/rishmithamadaporuge)  
-**Email**: risham@example.com
+**Email**: rishmithamadaporuge@gmail.com
 
 ---
 
